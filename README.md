@@ -1,4 +1,4 @@
-## Alarm Clock project by : Muhammad Abd Alhamid,  Liad Motorin,  Mahmood Saleh
+## Smart Alarm Clock project by : Muhammad Abd Alhamid,  Liad Motorin,  Mahmood Saleh
   winter 2023/2024 
 
 ## Details about the project
