@@ -1,3 +1,5 @@
+![original_MahmoodDoma_typewriter_text_dark(2)](https://github.com/LiadMo/SmartAlarmClock/assets/156796527/c58d8c46-4583-4cee-9b07-e6a074151b91)
+
 ## Smart Alarm Clock project by : Muhammad Abd Alhamid,  Liad Motorin,  Mahmood Saleh
   winter 2023/2024 
 
