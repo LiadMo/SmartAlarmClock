@@ -21,6 +21,17 @@
 * ArduinoJson - version 6.21.2
 * MD_Parola - version 3.6.2
 
+## HW used in this project:
+* ESP32 - A micro controller
+* MAX7219 Led matrix 8x32 - a LED screen
+* microSD card reader module
+* 3 Pushbuttons for different functions 
+* MAX98357 audio amplifier - a chip that plays audio
+
+## connection diagram: 
+![Screenshot 2024-04-07 123128](https://github.com/LiadMo/SmartAlarmClock/assets/156796527/ba501e1c-bf18-4c13-be9b-6fb4a9c2508b)
+
+
 ## Project Poster:
 
 This project is part of ICST - The Interdisciplinary Center for Smart Technologies, Taub Faculty of Computer Science, Technion
