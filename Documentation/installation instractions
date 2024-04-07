@@ -1,0 +1,7 @@
+make sure you have all the HW that are in the "HW used" file.
+make the correct connections just like the connection diagram.
+open the esp code using arduino app.
+make sure you use your parameters in the currect places descriped in the Parameters folder.
+upload the code to esp32 using a micro usb cable.
+after that you should use the included app and the firebase for communications.
+you should be all set for using our project.
