@@ -15,11 +15,11 @@
 
 
 ## Arduino/ESP32 libraries used in this project:
-* ESP32-audioI2S - version 2.0.7
-* NTPClient - version 3.2.1
-* Firebase ESP32 Client - version 4.4.9
-* ArduinoJson - version 6.21.2
-* MD_Parola - version 3.6.2
+* [ESP32-audioI2S - version 2.0.7](https://github.com/schreibfaul1/ESP32-audioI2S)
+* [NTPClient - version 3.2.1](https://github.com/arduino-libraries/NTPClient)
+* [Firebase ESP32 Client - version 4.4.9](https://github.com/mobizt/Firebase-ESP32)
+* [ArduinoJson - version 6.21.2](https://github.com/bblanchon/ArduinoJson)
+* [MD_Parola - version 3.6.2](https://github.com/MajicDesigns/MD_Parola)
 
 ## HW used in this project:
 * ESP32 - A micro controller
