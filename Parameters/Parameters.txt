@@ -1,0 +1,28 @@
+DATABASE_URL: the url for the database.
+API_KEY: the API key for the firebase real time DB.
+USER_EMAIL: the user email for the app.
+USER_PASSWORD: the user password for the app.
+ntpServer1: the first ntp server url.
+ntpServer2: the second ntp server url in case the first one didn't work.
+
+SD_CS: the VCC pin for the microSD.
+SPI_MOSI: the MOSI pin for the microSD.
+SPI_MISO: the MISO pin for the microSD.
+SPI_SCK: the SCK pin for the microSD.
+
+I2S_BCLK: the BCLK pin for the MAX98357 audio device.
+I2S_LRC: the LRC  pin for the MAX98357 audio device.
+I2S_DOUT: the DOUT pin for the MAX98357 audio device.
+
+MAX_DEVICES: the number of MAX7219 8x8 devices in a row we use.
+CLK_PIN: the CLK pin for the MAX7219 display device.
+DATA_PIN: the DATA pin for the MAX7219 display device.
+CS_PIN: the CS pin for the MAX7219 display device. 
+
+BUTTON_NEXT_PIN: a pin for a button. 
+
+BUTTON_PREV_PIN: a pin for a button.
+
+BUTTON_RESET_PIN: a pin for a button.
+
+BUTTON_DO_PIN: a pin for a button.
