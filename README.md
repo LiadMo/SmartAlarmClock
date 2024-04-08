@@ -25,12 +25,11 @@
 * ESP32 - A micro controller
 * MAX7219 Led matrix 8x32 - a LED screen
 * microSD card reader module
-* 3 Pushbuttons for different functions 
+* 4 Pushbuttons for different functions 
 * MAX98357 audio amplifier - a chip that plays audio
 
 ## connection diagram: 
-![connection diagram](https://github.com/LiadMo/SmartAlarmClock/assets/156796527/4e956d82-2daf-461b-b45b-8ebf8df79fa4)
-
+![Screenshot 2024-04-08 130746](https://github.com/LiadMo/SmartAlarmClock/assets/156796527/7c40402c-98b2-41ba-aae3-a40e66865f4a)
 
 This project is part of ICST - The Interdisciplinary Center for Smart Technologies, Taub Faculty of Computer Science, Technion
 https://icst.cs.technion.ac.il/
