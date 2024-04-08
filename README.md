@@ -29,10 +29,8 @@
 * MAX98357 audio amplifier - a chip that plays audio
 
 ## connection diagram: 
-![Screenshot 2024-04-07 123128](https://github.com/LiadMo/SmartAlarmClock/assets/156796527/ba501e1c-bf18-4c13-be9b-6fb4a9c2508b)
+![connection diagram](https://github.com/LiadMo/SmartAlarmClock/assets/156796527/4e956d82-2daf-461b-b45b-8ebf8df79fa4)
 
-
-## Project Poster:
 
 This project is part of ICST - The Interdisciplinary Center for Smart Technologies, Taub Faculty of Computer Science, Technion
 https://icst.cs.technion.ac.il/
