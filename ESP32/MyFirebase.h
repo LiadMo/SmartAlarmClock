@@ -13,10 +13,10 @@
 #include <ArduinoJson.h>
 
 // Define Firebase
-#define DATABASE_URL "https://smartalarmclock-c5a5d-default-rtdb.europe-west1.firebasedatabase.app"
-#define API_KEY "AIzaSyB2tLAx_nrIe7ddFqx4hzQLNohLhBR5bkA"
-#define USER_EMAIL "example@technion.ac.il"
-#define USER_PASSWORD "iot123"
+#define DATABASE_URL "*****"
+#define API_KEY "AIzaSy*********NohLhBR5bkA"
+#define USER_EMAIL "*****@technion.ac.il"
+#define USER_PASSWORD "*****"
 
 using std::string;
 using std::vector;
