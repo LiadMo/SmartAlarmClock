@@ -10,7 +10,7 @@
 * ESP32: source code for the esp side (firmware).
 * Documentation: wiring diagram + basic operating instructions
 * Unit Tests: tests for individual hardware components (input / output devices)
-* flutter_app: dart code and audio assets for our Flutter app.
+* flutter_app: dart code for Flutter app.
 * Assets: Audio files used in this project
 
 
